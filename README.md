@@ -8,7 +8,7 @@ Telegramda tap [@KanalAbuneliyibot](https://t.me/kanalabuneliyibot)
 
 # Heroku Deploy:
 ### -Asan yol
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dasqinnagiyev/Kanal-Abuneliyi/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dasqinnagiyev/Kanal-Abuneliyi)
 
 ### -Normal qurulum
 ```python3
