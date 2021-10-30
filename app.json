@@ -1,0 +1,46 @@
+{
+  "name": "Kanal-Abuneliyi",
+  "description": "Bot, Qrupda Mesaj Yazmazdan əvvəl Üzvləri Müəyyən Kanala Qoşulmağa Məcbur Edə Bilər!",
+  "logo": "https://telegra.ph/file/39b6470a66fc51409b4d5.jpg",
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "Fsub",
+    "Group",
+    "Channel"
+  ],
+  "repository": "https://github.com/dasqinnagiyev/Kanal-Abuneliyi",
+  "website": "instagram.com/dasqinnagiyev",
+  "success_url": "t.me/kanalabuneliyibot",
+  "env": {
+    "APP_ID": {
+      "description": "Bu dəyəri my.telegram.org saytından əldə et",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Bu dəyəri my.telegram.org saytından əldə et",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Bot tokenini yaz, @BotFather.",
+      "value": ""
+    }
+  },
+  "addons": [
+    {
+    "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }
+  ],
+  "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
