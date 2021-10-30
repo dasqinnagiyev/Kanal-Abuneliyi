@@ -22,4 +22,4 @@ class Messages():
         "[👨‍💻](https://telegra.ph/file/f2b08ba94ebd139d9da96.jpg) **Bot @dasqinnagiyev tərəfindən bekar olduğu bir vaxtda düzəldilib**"
       ]
 
-      START_MSG = "**SALAM! [💫](https://i.imgur.com/SmqQApH.jpg) [{}](tg://user?id={})**\n\n● Qrupda Mesaj Yazmazdan əvvəl Üzvləri Kanalınıza Qoşulmağa Məcbur Edə Bilərəm.\n● Ətraflı /yardim deyərək öyrən."
+      START_MSG = "**SALAM! [💫](https://i.imgur.com/SmqQApH.jpg) [test](tg://user?id={})**\n\n● Qrupda Mesaj Yazmazdan əvvəl Üzvləri Kanalınıza Qoşulmağa Məcbur Edə Bilərəm.\n● Ətraflı /yardim deyərək öyrən."
